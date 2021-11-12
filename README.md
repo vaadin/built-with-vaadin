@@ -21,3 +21,4 @@ Please send a [Pull Request](https://github.com/vaadin/made-with-vaadin/compare)
 | [Vaadin Start↗️](https://start.vaadin.com/) | | `Latest` | Vaadin Start is a visual tool for quickly generating Vaadin web app. This tool is itself built using Vaadin Fusion. |
 | [Vaadin Cookbook↗️](https://cookbook.vaadin.com/) | [Source](https://github.com/vaadin/cookbook) | `21` | Vaadin Cookbook is an app that features a collection of solutions to common use cases you run into when developing business apps. This tool is itself built using Vaadin Fusion. |
 | [TaskMob↗️](https://taskmob.demo.vaadin.com/) | | `14` | The classic todo app implemented as PWA. |
+| [Java Events↗️](https://java-events.dev/) | [Source](https://github.com/marcushellberg/java-events)| `latest` | A list of Java events around the world. Built with Vaadin components, Lit, and Vite. |
