@@ -3,7 +3,7 @@ An open list of projects built using Vaadin
 
 Please send a [Pull Request](https://github.com/vaadin/made-with-vaadin/compare) to add your Vaadin project.
 
-</br>
+<br>
 
 | Name | Source | Version | Description |
 | :-- | :-: | :-: | :-- |
@@ -15,6 +15,7 @@ Please send a [Pull Request](https://github.com/vaadin/made-with-vaadin/compare)
 | [Customer CRUD demo↗️](https://demo.vaadin.com/customer-crud-app/) | [Source](https://github.com/vaadin/ui-examples/tree/master/data-entry/customer-crud/customer-crud-flow) | `14`, `19` | Demos Vaadin CRUD component, which offers an intuitive and consistent UX for the CRUD operations including prompting a user confirmation on destructive actions. |
 | [Database connection example↗️](https://vaadin-database-example.demo.vaadin.com/) | [Source](https://github.com/vaadin/vaadin-database-example) | `14`, `latest` | Demonstrates how to create a simple Vaadin UI to show database content. |
 | [Invoice Editor↗️](https://demo.vaadin.com/invoice-editor-app/) | [Source](https://github.com/vaadin/ui-examples/tree/master/data-entry/invoice-editor/invoice-editor-flow) | `14`, `19` | An invoice editor built using Vaadin's Rich Text Editor and Grid Pro. |
+| [JTAF Track and Field↗️](https://jtaf.ch/) | [Source](https://github.com/72services/jtaf4) | `20` | With JTAF you can manage track and field competions in a simple manner |
 | [Vaadin CRM (Flow)↗️](https://crm.demo.vaadin.com/) | [Source](https://github.com/vaadin/flow-crm-tutorial) | `14`, `Latest` | A CRM system for managing contacts that demonstrates many of Vaadin Flow's capabilities. |
 | Vaadin CRM (Fusion) | [Source](https://github.com/vaadin/fusion-crm-tutorial) | `Latest` | A CRM system for managing contacts that demonstrates many of Vaadin Fusion's capabilities. |
 | [Vaadin Start↗️](https://start.vaadin.com/) | | `Latest` | Vaadin Start is a visual tool for quickly generating Vaadin web app. This tool is itself built using Vaadin Fusion. |
