@@ -23,4 +23,4 @@ Please send a [Pull Request](https://github.com/vaadin/made-with-vaadin/compare)
 | Vaadin CRM (Fusion) | [Source](https://github.com/vaadin/fusion-crm-tutorial) | `Latest` | A CRM system for managing contacts that demonstrates many of Vaadin Fusion's capabilities. |
 | [Vaadin Start↗️](https://start.vaadin.com/) | | `Latest` | Vaadin Start is a visual tool for quickly generating Vaadin web app. This tool is itself built using Vaadin Fusion. |
 | [Vaadin Cookbook↗️](https://cookbook.vaadin.com/) | [Source](https://github.com/vaadin/cookbook) | `21` | Vaadin Cookbook is an app that features a collection of solutions to common use cases you run into when developing business apps. This tool is itself built using Vaadin Fusion. |
-| [TaskMob↗️](https://taskmob.demo.vaadin.com/) | | `14` | The classic todo app implemented as PWA. |
+| [TaskMob↗️](https://taskmob.demo.vaadin.com/) | | `15` | The classic todo app implemented as PWA. |
